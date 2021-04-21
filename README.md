@@ -1,1 +1,2 @@
-# js-music-player
+# Simple Music Player
+###credit- Traversy Media
