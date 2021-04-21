@@ -1,2 +1,2 @@
 # Simple Music Player
-###credit- Traversy Media
+### credit- Traversy Media
