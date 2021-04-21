@@ -1,2 +1,5 @@
 # Simple Music Player
-### credit- Traversy Media
+
+<img src="https://i.ibb.co/42jfBBn/music-Player.png" alt="music-Player" border="0">
+
+### credit - Traversy Media
